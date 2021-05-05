@@ -9,7 +9,8 @@ Files:
 ```
 
 Solved by (alphabetical order): n00byedge,
-[PewZ](https://twitter.com/0xbadcafe1), zanderdk, zopazz, zzz
+[PewZ](https://twitter.com/0xbadcafe1),
+[zanderdk](https://twitter.com/alexanderkrog), zopazz, zzz
 
 ## TL;DR
 1. send `int1` to raise `SIGTRAP`, clear TF, but don't write `ud2`
